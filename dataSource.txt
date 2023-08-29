@@ -1,0 +1,12 @@
+https://data.epa.gov.tw/dataset/detail/WQX_P_01  河川水質監測
+https://wq.epa.gov.tw/EWQP/zh/ConService/DownLoad/HistoryData.aspx 河川水質監測歷史資料
+https://data.epa.gov.tw/dataset/detail/WQX_P_02  區域性地下水
+https://data.epa.gov.tw/dataset/detail/EMS_S_03  水污染源許可及申報資料
+
+
+https://gic.wra.gov.tw/Gis/Gic/API/Google/Index.aspx  河川（河道、流域）圖資
+
+
+
+政府資料開放平臺資料集清單
+https://sheethub.com/data.gov.tw/%E6%94%BF%E5%BA%9C%E8%B3%87%E6%96%99%E9%96%8B%E6%94%BE%E5%B9%B3%E8%87%BA%E8%B3%87%E6%96%99%E9%9B%86%E6%B8%85%E5%96%AE/i/45/SHP
